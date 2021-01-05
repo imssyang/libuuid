@@ -1,0 +1,2 @@
+
+./configure --prefix=/opt/libuuid --sysconfdir=/opt/libuuid/conf
